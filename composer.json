@@ -16,12 +16,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4",
-        "illuminate/contracts": "~5.0"
-    },
-    "require-dev": {
-        "phpspec/phpspec": "~2.0",
-        "illuminate/http": "~5.1@dev"
+        "php": "^7.4.0",
+        "illuminate/contracts": "^6.0|^7.0|^8.0"
     },
     "config": {
         "bin-dir": "bin"
